@@ -31,3 +31,10 @@ We are building a fully responsive website that will use vanilla html, css and J
 ## Acknowledgements:
 * **Nate Williams** - Lecturer and guide. Thanks for all your time and effort.
 * **Md. Ashiqur Rahman** - As a reference to using the slick carousel [Client Logo Slider](https://codepen.io/mdashikar/pen/VWPvgE)
+
+## PS
+
+### Notes, todos and known probelms:
+    * **Mobile**: 
+        * Scroll past top of page and past bottom of page.
+        * Cart icon is pretty on iOS - my cell device. Perhaps remove icon on smaller screesn?
