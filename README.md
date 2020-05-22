@@ -35,6 +35,6 @@ We are building a fully responsive website that will use vanilla html, css and J
 ## PS
 
 ### Notes, todos and known probelms:
-    * **Mobile**: 
-        * Scroll past top of page and past bottom of page.
-        * Cart icon is pretty on iOS - my cell device. Perhaps remove icon on smaller screesn?
+* **Mobile**: 
+    * Scroll past top of page and past bottom of page.
+    * Cart icon is pretty on iOS - my cell device. Perhaps remove icon on smaller screesn?
